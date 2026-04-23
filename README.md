@@ -33,7 +33,7 @@ The simulation utilizes two primary metaheuristic algorithms to ensure reliabili
 
 | 3D Path Visualization | Optimization Convergence |
 | :---: | :---: |
-| ![3D Map](media/environment_image.png) | ![PSO Graph](media/pso_path_image.png) |
+| ![3D Map](media/Picture1.png) | ![PSO Graph](media/Picture3.png) |
 | *Shortest path calculation in a 3D grid.* | *Algorithm efficiency and path refinement.* |
 
 ---
